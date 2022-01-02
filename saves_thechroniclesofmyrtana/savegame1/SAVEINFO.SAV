@@ -3,7 +3,7 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 2.1.2022 15:56:46
+date 2.1.2022 17:59:28
 user Szymon
 END
 objects 1        
@@ -12,13 +12,13 @@ END
 [% oCSavegameInfo 0 0]
 	Title=string:1
 	WorldName=string:Silbach
-	TimeDay=int:11
-	TimeHour=int:12
-	TimeMin=int:22
-	SaveDate=string:2.1.2022 - 15:56
+	TimeDay=int:14
+	TimeHour=int:0
+	TimeMin=int:7
+	SaveDate=string:2.1.2022 - 17:59
 	VersionMajor=int:2
 	VersionMinor=int:6
-	PlayTimeSeconds=int:20158
+	PlayTimeSeconds=int:21324
 	VersionPoint=int:0
 	VersionInt=int:0
 	VersionAppName=string:1
