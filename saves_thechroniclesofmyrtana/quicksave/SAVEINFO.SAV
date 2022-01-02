@@ -3,7 +3,7 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 2.1.2022 13:59:29
+date 2.1.2022 14:2:46
 user Szymon
 END
 objects 1        
@@ -14,11 +14,11 @@ END
 	WorldName=string:Archolos
 	TimeDay=int:13
 	TimeHour=int:9
-	TimeMin=int:1
-	SaveDate=string:2.1.2022 - 13:59
+	TimeMin=int:46
+	SaveDate=string:2.1.2022 - 14:02
 	VersionMajor=int:2
 	VersionMinor=int:6
-	PlayTimeSeconds=int:21453
+	PlayTimeSeconds=int:21650
 	VersionPoint=int:0
 	VersionInt=int:0
 	VersionAppName=string:1
