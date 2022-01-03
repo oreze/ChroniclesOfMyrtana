@@ -3,7 +3,7 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 2.1.2022 18:58:22
+date 3.1.2022 19:3:10
 user Szymon
 END
 objects 1        
@@ -12,13 +12,13 @@ END
 [% oCSavegameInfo 0 0]
 	Title=string:6
 	WorldName=string:Miasto
-	TimeDay=int:15
-	TimeHour=int:17
-	TimeMin=int:47
-	SaveDate=string:2.1.2022 - 18:58
+	TimeDay=int:17
+	TimeHour=int:8
+	TimeMin=int:13
+	SaveDate=string:3.1.2022 - 19:03
 	VersionMajor=int:2
 	VersionMinor=int:6
-	PlayTimeSeconds=int:24505
+	PlayTimeSeconds=int:26510
 	VersionPoint=int:0
 	VersionInt=int:0
 	VersionAppName=string:1
