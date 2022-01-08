@@ -3,7 +3,7 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 8.1.2022 11:56:17
+date 8.1.2022 12:59:56
 user Szymon
 END
 objects 1        
@@ -11,14 +11,14 @@ END
 
 [% oCSavegameInfo 0 0]
 	Title=string:---
-	WorldName=string:Winnica Valerio
-	TimeDay=int:50
-	TimeHour=int:18
-	TimeMin=int:12
-	SaveDate=string:8.1.2022 - 11:56
+	WorldName=string:Archolos
+	TimeDay=int:55
+	TimeHour=int:16
+	TimeMin=int:45
+	SaveDate=string:8.1.2022 - 12:59
 	VersionMajor=int:2
 	VersionMinor=int:6
-	PlayTimeSeconds=int:65993
+	PlayTimeSeconds=int:68827
 	VersionPoint=int:0
 	VersionInt=int:0
 	VersionAppName=string:1
